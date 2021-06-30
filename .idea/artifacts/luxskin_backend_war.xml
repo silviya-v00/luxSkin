@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="luxskin-backend:war">
+    <output-path>$PROJECT_DIR$/luxskin-backend/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>luxskin-backend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="luxskin-backend-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="luxskin-backend:war exploded" />
+    </root>
+  </artifact>
+</component>

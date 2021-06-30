@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/luxSkin.iml" filepath="$PROJECT_DIR$/luxSkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luxskin-backend/luxskin-backend.iml" filepath="$PROJECT_DIR$/luxskin-backend/luxskin-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luxskin-ui/luxskin-ui.iml" filepath="$PROJECT_DIR$/luxskin-ui/luxskin-ui.iml" />
+    </modules>
+  </component>
+</project>
